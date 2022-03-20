@@ -8,5 +8,8 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true 
     },
-    "python.pythonPath": "images-gallery/.venv/scripts/python.exe"
+    "python.defaultInterpreterPath": "C:/Users/Gamer/projects/Full-stack-learning/images-gallery/api/.venv/Scripts/python.exe",
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.formatting.provider": "black"
 }
